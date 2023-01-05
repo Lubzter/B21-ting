@@ -2,8 +2,13 @@
 Wholesome: 255308, 211648, 278153, 269542, 273447, 147746, 271062, 179267 (Awesome), 171091 (Also great), 206409, 220901, 92807, 86879, 92056, 148080, 223146, 199827, 271048, 253993, 268793, 266987, 277677, 268920, 239463, 253993, 186780 (Wholesome tentacle), 209775, 129071, 285275, 284566, 255772, 280890, 168479, 262711, 265918.
 
 Basic: 275485, 269673, 103269, 241790, 281709, 255869, 89514, 152067, 97730, 285504, 255662 (Good), 204958 (also good), 250647 (Also also good), 222798, 260605, 226861, 245503, 264298, 223147, 67462, 255744, 245737, 170727, 272298, 246448, 179687, 187343, 245131, 123361, 272129, 129281, 217727 (Tanline icon), 178468, 155365 (Shipgirls and Hitler), 274917, 280297, 261063, 228708, 285588, 16316, 214054, 240543, 233321, 203367, 233878, 245942, 246144, 242056, 253992 (Good), 283737, 283101, 210010, 118282.
+I'd just like to interject for a moment. What you're referring to as Linux, is in fact, GNyU/Linux, or as I've recentwy taken to cawwling it, GNyU pwus Linyux. Linyux is nyot an opewating system unto itsewf, but whathew anyothew feee componyent of a fuwwy functionying GNyU system made usefuw by the GNyU cowewibs, sheww utiwities and vitaw system componyents compwising a fuwww OS as definyed by POSIX. Many computew usews wun a modified vewsion of the GNyU system evewy day, without weawizing it. Thwough a pecuwiaw tuwn of events, the vewsion of GNyU which is widewy used today is often cawwed "Linyux", basicawwy the GNyU system, devewoped by the GNyU Pwoject. Thewe weawwy is a Linyux, and these peopwe  awe using it, but it is just a pawt of the system they use. Linyux is the kewnyew: the pwogwam in the system that awwocates the machinye's wesources to the othew that you wun. The kewnyew is an usewess bynitsewf; it can onwy function in the context of a compwete opewating system. Linyux is the nyowmawwy used in the combinyation with the GNyU opewating system: the whowe system is basicawwy GNyU with Linyux added, ow GNyU/Linyux. aww the so-cawwed "Linyux"  distwibutions awe weawwy distwibutions of GNyU/Linyux.
 
+Mid tier F-ed up: Vær sød ikke at pille ved penisen
+=======
+Woop Woop thats the sound of the police
 Mid tier F-ed up: 249743, 280509, 151436, 109851, 60449, 195117, 281135, 276528, 179305 (Mega Milk Origin), 243520, 272768, 151165, 182290, 175852, 234167, 218398, 277324, 245135, 267300, 286003, 221287 (Messed up ending, but basic beginning), 285627, 116513, 182674, 260217, 245341, 218162, 149414, 283036, 112940, 269285, 191773, 248670.
+>>>>>>> 340d889e7774cfb5b8bd7a0cb609ddf3022561e8
 
 Scarring: 278832, 210510, 77054, 177013 (Metamorphosis), 255918, 114750, 139732, 222855, 261174, 201704, 4280, 215600 (Worse than Metamorphosis. You have been warned.), 228922 (Worse than previous one).
 @norman
